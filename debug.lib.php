@@ -1,5 +1,7 @@
 <?php
-// 2016-12-30 Librairie utilisée UNIQUEMENT en cas de debuggage, pour afficher les paramètres en INPUT de page
+// 2016-12-30 Librairie debug.lib.php V3.0
+// utilisée UNIQUEMENT en cas de debuggage,
+// pour afficher les paramètres en INPUT de page
 
 function debug_params()
 {
